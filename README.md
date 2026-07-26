@@ -29,6 +29,14 @@ The dataset was collected from:
 
 ---
 
+## Live Demo
+
+Click below to try the application.
+
+https://your-app-name.streamlit.app
+
+---
+
 ## Categories
 
 The classifier predicts the following categories:
