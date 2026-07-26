@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.env/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# Model cache
+*.joblib
+
+# Temporary files
+*.log
+
+# Python cache
+.pytest_cache/
+
+# Large datasets (optional)
+data/raw/
+
+# System
+Thumbs.db

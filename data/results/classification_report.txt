@@ -1,0 +1,16 @@
+                       precision    recall  f1-score   support
+
+   Business & Economy       0.73      0.75      0.74        48
+                Crime       0.74      0.88      0.80        16
+            Education       0.85      0.88      0.86        32
+        Entertainment       0.86      0.96      0.91        46
+         General News       0.36      0.12      0.19        32
+               Health       0.94      0.85      0.89        20
+        International       0.81      0.90      0.85        48
+              Opinion       0.77      0.83      0.80        48
+Politics & Government       0.73      0.79      0.76        48
+               Sports       0.96      0.96      0.96        48
+
+             accuracy                           0.80       386
+            macro avg       0.78      0.79      0.78       386
+         weighted avg       0.78      0.80      0.79       386
