@@ -33,7 +33,7 @@ The dataset was collected from:
 
 Click below to try the application.
 
-https://your-app-name.streamlit.app
+https://nepali-news-classifier-using-ml.streamlit.app
 
 ---
 
